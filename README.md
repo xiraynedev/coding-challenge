@@ -1,7 +1,7 @@
 
 # Coding Challenge Description
 
-## Coding Challenge Hosted on GitHub Pages [Here]()
+## Coding Challenge Hosted on GitHub Pages [Here](https://xiraynedev.github.io/coding-challenge/)
 
 This coding challenge has an index.html file that has tables with non-changing content. The browser loads a single JavaScript file
 that makes API requests to retrieve JSON data. The data is then used to populate the user table with information pertaining to each user.
