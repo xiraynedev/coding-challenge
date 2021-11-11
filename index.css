@@ -1,0 +1,10 @@
+.user-name {
+  cursor: pointer;
+  transition: all 1s ease-in-out;
+}
+
+.user-name:hover {
+  transform: translateX(5px);
+  color: orange;
+  text-decoration: underline;
+}
