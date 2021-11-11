@@ -9,8 +9,14 @@ The user table uses event delegation to determine which DOM element was clicked.
 the user's ID to retrieve a list of posts pertaining to that user. It then displays the post information in the posts table. A back button is 
 shown with the posts to return to the user table. The HTML is styled with Bootstrap and one simple CSS external stylesheet.
 
+---
+
 ![User Table](./user-table.png "User Table")
 
+---
+
 ![Posts Table](./posts-table.png "Posts Table")
+
+---
 
 ![Lighthouse Results](./lighthouse-results.png)
